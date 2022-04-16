@@ -17,6 +17,7 @@ int main()
 	a.s = 20;
 	cout<<a.t<<endl;
 	cout<<a.s<<endl;
+	cout<<"***"<<endl;
 	return 0;
 }
 
