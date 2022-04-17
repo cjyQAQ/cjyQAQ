@@ -81,3 +81,39 @@
 英雄萨姆|98|24
 Apex|198|7
 
+
+#代码
+
+##### 在文档中插入代码片段
+
+```c
+#include <stdio.h>
+
+int main()
+{
+	printf("c..\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iosteam>
+using namespace std;
+
+int main()
+{
+}
+```
+
+
+```python
+import os
+
+def main():
+	loop = asyncio.get_event_loop()
+```
+
+```bash
+	nestate -apn|aiksfhj
+```
+
